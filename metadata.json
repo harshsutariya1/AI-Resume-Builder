@@ -1,0 +1,5 @@
+{
+  "name": "AI Resume Builder",
+  "description": "An ATS-friendly resume builder powered by Gemini. Create a professional resume with AI-assisted writing for summaries and work experience, then download it as a high-quality PDF.",
+  "requestFramePermissions": []
+}
